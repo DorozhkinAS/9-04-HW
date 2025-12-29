@@ -12,6 +12,6 @@
 
 <img width="923" height="207" alt="image" src="https://github.com/user-attachments/assets/48ca0e0f-1675-448e-86e5-a3bb299515c8" />
 
-
-
-Задание 2
+  
+  
+ ### Задание 2
