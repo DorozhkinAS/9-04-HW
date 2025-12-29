@@ -10,6 +10,12 @@
     rsync -avh --delete --exclude='.*/' --checksum ~/ /tmp/backup/
 
 
+<img width="726" height="711" alt="image" src="https://github.com/user-attachments/assets/fd46e750-1259-4a6c-8ea7-18aba8e37bdb" />
+
+
+<img width="637" height="342" alt="image" src="https://github.com/user-attachments/assets/f1a44803-1bce-4f93-835e-f3c7e91b04cf" />
+
+
 <img width="923" height="207" alt="image" src="https://github.com/user-attachments/assets/48ca0e0f-1675-448e-86e5-a3bb299515c8" />
 
   
