@@ -32,9 +32,6 @@
  ![22](https://github.com/user-attachments/assets/ebf16655-3ab9-4dd4-a68a-b83f49c55cdb)
 
 
-![2 2](https://github.com/user-attachments/assets/6a11228b-6d9b-4351-ac0b-45fd6503473f)
-
-
 
 /usr/local/bin/backup.sh
 
